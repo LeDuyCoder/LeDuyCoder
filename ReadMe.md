@@ -1,7 +1,10 @@
 # 💫About Me :
 🎓 Sinh viên đại học
+
 💻 Lập trình Android với Flutter
+
 🚀 Đam mê công nghệ và thích tạo ra những ứng dụng hữu ích
+
 🌱 Luôn học hỏi và khám phá cái mới
 
 Kết nối với mình nếu bạn cũng yêu thích code hoặc muốn cùng trao đổi về lập trình! 🎉
