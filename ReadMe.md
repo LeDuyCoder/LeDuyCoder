@@ -1,13 +1,11 @@
 # 💫About Me :
-🎓 Sinh viên đại học
+💻 Flutter Developer
+☕ Java Backend Developer – Spring Boot, RESTful APIs, SQL/NoSQL
 
-💻 Lập trình Android với Flutter
-
-🚀 Đam mê công nghệ và thích tạo ra những ứng dụng hữu ích
-
-🌱 Luôn học hỏi và khám phá cái mới
-
-Kết nối với mình nếu bạn cũng yêu thích code hoặc muốn cùng trao đổi về lập trình! 🎉
+🚀 Passionate about building useful and user-friendly applications
+🛠️ Turning ideas into real products through clean code and intuitive design
+📚 Constantly learning and exploring new technologies
+🤝 Open to collaboration and teamwork
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/le.huuduy.752/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kiramas02/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kira-dev-1b625a297/) 
